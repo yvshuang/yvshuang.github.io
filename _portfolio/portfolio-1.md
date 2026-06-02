@@ -1,7 +1,1 @@
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+--- title: 轮足复合移动机器人｜国家级大创项目 permalink: /portfolio/wheel-leg-robot/ collection: portfolio excerpt: 全流程嵌入式开发、运动控制算法落地 --- ### 项目介绍 项目负责人，国家级大创立项。完成机械结构设计、STM32底层驱动开发、分段PID闭环控制，实现平地快速直行+复杂地形越障两种工作模式。 硬件：STM32F4主控、伺服驱动、MPU6050姿态传感器； 软件：C语言嵌入式、姿态解算、多电机协同控制。
