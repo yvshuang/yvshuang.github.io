@@ -1,1 +1,1 @@
---- title: 轮足复合移动机器人｜国家级大创项目 permalink: /portfolio/wheel-leg-robot/ collection: portfolio excerpt: 全流程嵌入式开发、运动控制算法落地 --- ### 项目介绍 项目负责人，国家级大创立项。完成机械结构设计、STM32底层驱动开发、分段PID闭环控制，实现平地快速直行+复杂地形越障两种工作模式。 硬件：STM32F4主控、伺服驱动、MPU6050姿态传感器； 软件：C语言嵌入式、姿态解算、多电机协同控制。
+--- title: 轮足复合移动机器人｜国家级大创项目 permalink: /portfolio/wheel-leg-robot/ collection: portfolio excerpt: 全流程嵌入式开发、运动控制算法落地 --- ### 项目介绍 项目负责人，国家级大创立项。完成机械结构设计、STM32底层驱动开发、分段PID闭环控制，实现平地快速直行+复杂地形越障两种工作模式。 硬件：STM32F4主控、关节电机驱动、MPU6050姿态传感器； 软件：C语言嵌入式、姿态解算、多电机协同控制。
